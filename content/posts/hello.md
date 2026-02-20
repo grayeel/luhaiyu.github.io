@@ -1,5 +1,5 @@
 ---
-title: "我的第一篇 Hugo 文章"
+title: "我的第一篇hugo日记"
 date: 2026-02-20
 draft: false
 ---
