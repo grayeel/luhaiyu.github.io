@@ -1,6 +1,6 @@
 baseURL = 'https://luhaiyu.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Grayeel 的精神角落'
 theme = 'ananke'
 
 [params]
